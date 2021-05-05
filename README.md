@@ -1,4 +1,4 @@
-# Twitch Token Farmer A Tool used to Generate Twitch oAuth Tokens and Follow your Channel When it's freshly made.
+A Tool used to Generate Twitch oAuth Tokens and Follow your Channel When it's freshly made.
 You can use this tool on as many accounts as you'd like! No limits.
 It generates the oAuth for you.
 Access to the tool is given immediately with a license and download.
